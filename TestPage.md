@@ -1,0 +1,1 @@
+This is first go wiki demo page.
